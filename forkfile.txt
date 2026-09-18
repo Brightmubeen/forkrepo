@@ -1,1 +1,3 @@
 contents to fork
+new contents added to the file from duplicate copy
+new contents
